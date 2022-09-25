@@ -59,18 +59,27 @@ Sometimes there may be incidences when we need to make revisions to a problem se
 ## Updating Assignment Notebook
 1.	Go to your assignment Github repository. 
 2.	Below your assignment repo name, you should see a “generated from” hyperlink. Click on it.
+
+![Screenshot](assets/readme-image-1.png?raw=true "Screenshot 1")
+
 3.	This base template repo is the place that we will update any assignment corrections. Click on the updated assignment repo and open in Google Colab.
 4.	Save this repo to your Google Drive as something new like: assignment-XX-updated.ipynb. 
 5.	Then you can manually update this notebook with any old notebook code/markdown that you’ve already completed. In other words, copy and paste your any of your completed work to this new notebook. 
 a.	We are sorry for the manual process, but we think it’s the easiest/safest way.
-6.	IMPORTANT: Once you’ve copied over all your work to the new notebook, save that work to your github repo like you normally do.
+6.	**IMPORTANT:** Once you’ve copied over all your work to the new notebook, save that work to your github repo like you normally do.
 
 ## Updating Datasets
 1.	Go to your assignment Github repository. 
 2.	Below your assignment repo name, you should see a “generated from” hyperlink (See above figure). Click on it.
 3.	Click on Code > Download ZIP, to download the entire template repo.
+
+![Screenshot](assets/readme-image-2.png?raw=true "Screenshot 2")
+
 4.	Extract the ZIP file and navigate to datasets.
 5.	Now go back to your assignment repo on Github and also navigate to datasets.
 6.	Click on Add File > Upload files.
+
+![Screenshot](assets/readme-image-3.png?raw=true "Screenshot 3")
+
 7.	Re-upload all the new data files to your local Github and Click Commit.
 8.	You’re now all set.  
