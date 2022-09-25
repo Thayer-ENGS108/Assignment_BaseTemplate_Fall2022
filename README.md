@@ -52,3 +52,25 @@ The homework development process should be as follows:
 1. To make multiple submissions, just keep saving a copy to Github like previously described and just overwrite your old copy.
 1. **Important:** Always make sure to check your work to make sure your saved copy on Github matches your work in your notebook, remember you are saving the colab notebook constantlty in Google Drive and saving copies (snapshots) to Github, so Github will only make changes when you explicitly do the File > Save a copy in Github command!
 1. Make sure you get your final submission in by the deadline!
+
+# Updating Homework and Datasets
+Sometimes there may be incidences when we need to make revisions to a problem set and you will need to update your assignment notebook or datasets. We will try to minimize these disruptions but just in case.
+
+## Updating Assignment Notebook
+1.	Go to your assignment Github repository. 
+2.	Below your assignment repo name, you should see a “generated from” hyperlink. Click on it.
+3.	This base template repo is the place that we will update any assignment corrections. Click on the updated assignment repo and open in Google Colab.
+4.	Save this repo to your Google Drive as something new like: assignment-XX-updated.ipynb. 
+5.	Then you can manually update this notebook with any old notebook code/markdown that you’ve already completed. In other words, copy and paste your any of your completed work to this new notebook. 
+a.	We are sorry for the manual process, but we think it’s the easiest/safest way.
+6.	IMPORTANT: Once you’ve copied over all your work to the new notebook, save that work to your github repo like you normally do.
+
+## Updating Datasets
+1.	Go to your assignment Github repository. 
+2.	Below your assignment repo name, you should see a “generated from” hyperlink (See above figure). Click on it.
+3.	Click on Code > Download ZIP, to download the entire template repo.
+4.	Extract the ZIP file and navigate to datasets.
+5.	Now go back to your assignment repo on Github and also navigate to datasets.
+6.	Click on Add File > Upload files.
+7.	Re-upload all the new data files to your local Github and Click Commit.
+8.	You’re now all set.  
