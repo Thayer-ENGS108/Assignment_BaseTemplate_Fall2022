@@ -1,13 +1,13 @@
 # ENGS 108 Fall 2022 Assignment {NUMBER} Template Repository
-Included in this repository is the Assignment 1 notebook. It provides a skeleton for your coding assignment so that hopefully concepts are enforced over debugging. Although these assignments have been curated throughout the years, this delivery format is experimental, so if anything doesn't work as it should please let the TAs know as soon as possible. 
+Included in this repository is the Assignment {NUMBER} notebook. It provides a skeleton for your coding assignment so that hopefully concepts are enforced over debugging. Although these assignments have been curated throughout the years, this delivery format is experimental, so if anything doesn't work as it should please let the TAs know as soon as possible. 
 
 # Getting Setup
 
 This semester we will be using Github Classroom to host datasets and assignment template notebooks and Google Colab to run all of our code. The process for getting setup is pretty straightforward and you will be aided considerably if you install the following tools:
 1. You have already accepted the assignment invite so now you are in your own private repository.
-1. You will see a file called *Assignment_1_Fall2022_template.ipynb*, click on it!
+1. You will see a file called *Assignment_{NUMBER}_Fall2022_template.ipynb*, click on it!
 1. Then click on the button to "Open in Google Colab."
-1. **Important:** Then click Save a copy in Drive and rename it something different like: *submission_assignment1.ipynb* (This will make it easier for us to find later). 
+1. **Important:** Then click Save a copy in Drive and rename it something different like: *submission_assignment_{NUMBER}.ipynb* (This will make it easier for us to find later). 
 1. This will open up a new notebook and save a copy to MyDrive/Colab Notebooks. You can check the location by going to File > Locate in Drive.
 1. Now you have a copy of the skeleton in your Colab Notebook folder, seperated from your Git Repo.
 1. **This is important in case I have to update a skeleton for some reason it won't accidently overwrite work that you have already done.**
@@ -48,7 +48,7 @@ The homework development process should be as follows:
 1. Answer all assignment code inside your Colab notebook via code or Markdown. If you are unsure about writing in Markdown view this [guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb#scrollTo=tPqPXAKKkzaM). It's actually quite easy.
 1. We are going to use Github classroom (experimental) to submit assignments because its way easier than Canvas.
 1. Upon completion of your assignment in Google Colab, go to File > Save a copy in Github. 
-1. A new window will pop up, go to the Repository drop down and select your personal assignment repository (probably labeled something like "Thayer-ENGS108/assignment_1_Fall2022-{your-name}").
+1. A new window will pop up, go to the Repository drop down and select your personal assignment repository (probably labeled something like "Thayer-ENGS108/assignment_{NUMBER}_Fall2022-{your-name}").
 1. To make multiple submissions, just keep saving a copy to Github like previously described and just overwrite your old copy.
 1. **Important:** Always make sure to check your work to make sure your saved copy on Github matches your work in your notebook, remember you are saving the colab notebook constantlty in Google Drive and saving copies (snapshots) to Github, so Github will only make changes when you explicitly do the File > Save a copy in Github command!
 1. Make sure you get your final submission in by the deadline!
